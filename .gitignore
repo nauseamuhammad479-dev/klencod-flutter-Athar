@@ -1,9 +1,8 @@
-*.iml
-.dart_tool/
-.idea/
-.packages
-.pub/
+node_modules/
 build/
-*.swp
-.flutter-plugins
-.flutter-plugins-dependencies
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
